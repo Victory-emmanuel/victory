@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/https//Victory-emmanuel.github.io/victory/static/css/main.7b697ab6.css",
-    "main.js": "/https//Victory-emmanuel.github.io/victory/static/js/main.8268b81b.js",
-    "static/media/H1.jpg": "/https//Victory-emmanuel.github.io/victory/static/media/H1.469a66871afd8f08df70.jpg",
-    "static/media/p1.png": "/https//Victory-emmanuel.github.io/victory/static/media/p1.4646c43753528d5f5346.png",
-    "static/media/p4.png": "/https//Victory-emmanuel.github.io/victory/static/media/p4.d25d0759ed756e7d7c35.png",
-    "static/media/profileImg2.png": "/https//Victory-emmanuel.github.io/victory/static/media/profileImg2.4b62f8db9af5dc8a7ff1.png",
-    "static/media/p2.png": "/https//Victory-emmanuel.github.io/victory/static/media/p2.aaabc22bedee41ba875b.png",
-    "static/media/profileImg.png": "/https//Victory-emmanuel.github.io/victory/static/media/profileImg.0c89244ad52b2426080e.png",
-    "static/media/p3.png": "/https//Victory-emmanuel.github.io/victory/static/media/p3.a58e1afe77503053ebdd.png",
-    "static/media/wave.svg": "/https//Victory-emmanuel.github.io/victory/static/media/wave.e76e1da156650343b939.svg",
-    "static/media/p-wave1.svg": "/https//Victory-emmanuel.github.io/victory/static/media/p-wave1.ad05b79c9cc68727963f.svg",
-    "static/media/p-wave4.svg": "/https//Victory-emmanuel.github.io/victory/static/media/p-wave4.7aa99167e57a7d5289fc.svg",
-    "static/media/p-wave2.svg": "/https//Victory-emmanuel.github.io/victory/static/media/p-wave2.14b37444eddeec2c66ab.svg",
-    "static/media/p-wave3.svg": "/https//Victory-emmanuel.github.io/victory/static/media/p-wave3.f0f57ef09bc0d766108b.svg",
-    "index.html": "/https//Victory-emmanuel.github.io/victory/index.html",
-    "main.7b697ab6.css.map": "/https//Victory-emmanuel.github.io/victory/static/css/main.7b697ab6.css.map",
-    "main.8268b81b.js.map": "/https//Victory-emmanuel.github.io/victory/static/js/main.8268b81b.js.map"
+    "main.css": "/victory/static/css/main.1650ed78.css",
+    "main.js": "/victory/static/js/main.9b873c87.js",
+    "static/media/H1.jpg": "/victory/static/media/H1.469a66871afd8f08df70.jpg",
+    "static/media/p1.png": "/victory/static/media/p1.4646c43753528d5f5346.png",
+    "static/media/p4.png": "/victory/static/media/p4.d25d0759ed756e7d7c35.png",
+    "static/media/profileImg2.png": "/victory/static/media/profileImg2.4b62f8db9af5dc8a7ff1.png",
+    "static/media/p2.png": "/victory/static/media/p2.aaabc22bedee41ba875b.png",
+    "static/media/profileImg.png": "/victory/static/media/profileImg.0c89244ad52b2426080e.png",
+    "static/media/p3.png": "/victory/static/media/p3.a58e1afe77503053ebdd.png",
+    "static/media/wave.svg": "/victory/static/media/wave.e76e1da156650343b939.svg",
+    "static/media/p-wave1.svg": "/victory/static/media/p-wave1.ad05b79c9cc68727963f.svg",
+    "static/media/p-wave4.svg": "/victory/static/media/p-wave4.7aa99167e57a7d5289fc.svg",
+    "static/media/p-wave2.svg": "/victory/static/media/p-wave2.14b37444eddeec2c66ab.svg",
+    "static/media/p-wave3.svg": "/victory/static/media/p-wave3.f0f57ef09bc0d766108b.svg",
+    "index.html": "/victory/index.html",
+    "main.1650ed78.css.map": "/victory/static/css/main.1650ed78.css.map",
+    "main.9b873c87.js.map": "/victory/static/js/main.9b873c87.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b697ab6.css",
-    "static/js/main.8268b81b.js"
+    "static/css/main.1650ed78.css",
+    "static/js/main.9b873c87.js"
   ]
 }
