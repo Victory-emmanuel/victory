@@ -35,7 +35,16 @@ const About = () => {
                     duration: 10,
                   }}
                 >
-                  <img src={profileImg2} alt="" />
+                  <img
+                    src={profileImg2}
+                    alt=""
+                    style={{
+                      width: "10rem",
+                      height: "10rem",
+                      borderRadius: "100%",
+                      border: "8px solid #5d5859",
+                    }}
+                  />
                 </motion.div>
                 <div className="text">
                   <p style={{ padding: "2rem 0" }}>
@@ -82,7 +91,16 @@ const About = () => {
                           duration: 10,
                         }}
                       >
-                        <img src={profileImg2} alt="" />
+                        <img
+                          src={profileImg2}
+                          alt=""
+                          style={{
+                            width: "15rem",
+                            height: "15rem",
+                            borderRadius: "100%",
+                            border: "8px solid #5d5859",
+                          }}
+                        />
                       </motion.div>
                       <div className="text">
                         <h6 style={{ padding: "2rem 0" }}>

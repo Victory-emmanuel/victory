@@ -67,8 +67,8 @@ const Hero = () => {
                   src={profileImg}
                   alt=""
                   style={{
-                    width: "15rem",
-                    height: "15rem",
+                    width: "10rem",
+                    height: "10rem",
                     borderRadius: "100%",
                     border: "8px solid #5d5859",
                   }}
