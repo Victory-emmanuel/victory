@@ -22,7 +22,14 @@ const About = () => {
                 paddingRight: "1rem",
               }}
             >
-              <div className="grid" style={{ textAlign: "center" }}>
+              <div
+                className="grid"
+                style={{
+                  textAlign: "center",
+                  display: "grid",
+                  justifyItems: "center",
+                }}
+              >
                 <h5 style={{ marginBottom: "1rem", fontWeight: 500 }}>
                   About me
                 </h5>
