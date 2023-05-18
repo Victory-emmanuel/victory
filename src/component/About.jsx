@@ -5,7 +5,7 @@ import { FaMailBulk } from "react-icons/fa";
 import Media from "react-media";
 
 const About = () => {
-  const isSmallScreen = "(min-width: 1px) and (max-width: 601px)";
+  const isSmallScreen = "(min-width: 0px) and (max-width: 601px)";
   const isMediumScreen = "(min-width: 601px) and (max-width: 821px)";
   return (
     <>
@@ -14,7 +14,13 @@ const About = () => {
           matches ? (
             <div
               id="about"
-              style={{ marginLeft: 0, display: "grid", justifyItems: "center" }}
+              style={{
+                marginLeft: 0,
+                display: "grid",
+                justifyItems: "center",
+                paddingLeft: "1rem",
+                paddingRight: "1rem",
+              }}
             >
               <div className="grid" style={{ textAlign: "center" }}>
                 <h5 style={{ marginBottom: "1rem", fontWeight: 500 }}>
@@ -57,7 +63,14 @@ const About = () => {
             <Media query={isMediumScreen}>
               {(matches) =>
                 matches ? (
-                  <div id="about" style={{ marginLeft: 0 }}>
+                  <div
+                    id="about"
+                    style={{
+                      marginLeft: 0,
+                      paddingLeft: "1rem",
+                      paddingRight: "1rem",
+                    }}
+                  >
                     <div className="grid">
                       <h4>About me</h4>
                       <motion.div

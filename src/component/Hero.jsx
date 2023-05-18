@@ -85,8 +85,9 @@ const Hero = () => {
                 >
                   <h1
                     style={{
-                      fontSize: "3rem",
-                      // fontFamily: ' "Dancing Script", cursive',
+                      fontSize: "2rem",
+                      fontFamily: ' "Montserrat", sans-serif',
+                      fontWeight: 300,
                     }}
                   >
                     Victory Emmanuel
@@ -226,7 +227,8 @@ const Hero = () => {
                         <h1
                           style={{
                             fontSize: "3rem",
-                            fontFamily: ' "Dancing Script", cursive',
+                            fontFamily: ' "Montserrat", sans-serif',
+                            fontWeight: 400,
                           }}
                         >
                           Victory Emmanuel
